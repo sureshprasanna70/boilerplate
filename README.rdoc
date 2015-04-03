@@ -5,7 +5,7 @@ rails app.
 
 These are the ones in the app:
 
-* User management-devsie,cancan,rolify
+* User management-devise,cancan,rolify
 
 * Stylesheets-Bootstrap
 
