@@ -1,28 +1,14 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a boilerplate app that helps me save time whenever I start with a
+rails app.
 
-Things you may want to cover:
+These are the ones in the app:
 
-* Ruby version
+* User management-devsie,cancan,rolify
 
-* System dependencies
+* Stylesheets-Bootstrap
 
-* Configuration
+* Database-Mysql
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+* Root Path-"home#index"
