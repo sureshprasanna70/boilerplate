@@ -13,7 +13,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'devise'
 gem 'rolify'
 gem 'cancan'
-
+gem 'twitter-bootstrap-rails'
 group :development, :test do
   gem 'byebug'
   gem 'web-console', '~> 2.0'
